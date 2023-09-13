@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+body,
+section#presentation,
+a,
+footer {
+  background-color: #eeeeee;
+}
+
+.container {
+  width: 85%;
+  background: white;
+  margin: 1rem auto;
+  border: 1px solid black;
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Oswald", sans-serif;
+}
+
+h1,
+h2,
+h3,
+section p:nth-child(4),
+a,
+section.image p,
+footer p {
+  text-align: center;
+}
+
+header img {
+  display: block;
+  margin: auto;
+  padding: 1em;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  border-top: 2px solid #8b0000;
+  border-bottom: 2px solid #8b0000;
+  padding: 1rem;
+}
+
+header h1 span {
+  color: white;
+  background: black;
+  font-size: 0.88rem;
+  padding: 5px 10px;
+  font-weight: 500;
+}
+
+section#presentation {
+  width: 85%;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding: 1rem;
+}
+
+#presentation img {
+  display: block;
+  margin: auto;
+  width: 22%;
+  padding: 1rem 1rem 0 1rem;
+}
+
+strong {
+  font-weight: 700;
+}
+
+section#presentation p:nth-child(3) {
+  border-bottom: 1px solid black;
+  padding-bottom: 1rem;
+}
+
+section p:nth-child(4) {
+  font-style: italic;
+  font-size: 0.7rem;
+}
+
+h3,
+a {
+  color: #8b0000;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+p {
+  font-size: 0.9rem;
+  line-height: 130%;
+  margin: 1rem;
+}
+
+a {
+  width: 85%;
+  display: block;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  margin: 0.3rem auto;
+  padding: 0.3rem;
+  letter-spacing: 1.5px;
+  border-radius: 15px;
+}
+
+a:hover {
+  color: #eeeeee;
+  background-color: #8b0000;
+}
+
+section.image div {
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  width: 30%;
+  margin: 1rem auto;
+}
+
+section.image img {
+  width: 100%;
+  padding: 2rem;
+}
+
+footer {
+  padding: 2rem 0 3rem 0;
+}
