@@ -1,47 +1,35 @@
-# Challenge : Hero-corp
+# Static Webpage - Hero-Corp
 
-Zou, le box-model en pratique !
+This is a solution to the O'Clock challenge.
 
+## Table of contents
 
-## Instructions
+- [Static Webpage - Hero-Corp](#static-webpage---hero-corp)
+	- [Table of contents](#table-of-contents)
+	- [Overview](#overview)
+		- [Screenshot](#screenshot)
+		- [Links](#links)
+	- [My process](#my-process)
+		- [Built with](#built-with)
+		- [What I learned](#what-i-learned)
 
-- Les textes sont dispo dans le fichier `ressources/textes.txt`
-- Les visuels sont disponibles dans le dossier `images` du projet
+## Overview
 
-![resultat](ressources/resultat.png)
+### Screenshot
 
----
+![Landing Page Screenshot](<images/Screenshot 2023-12-14 at 16-30-18 Herocorp.png>)
 
-<details>
-<summary>
-  Bonus <strong>facultatif</strong>
-</summary>
+### Links
 
-## BONUS
+- [View my static page](https://denis-pianelli.github.io/static-webpages-hero-corp/)
 
-- Utiliser la font Oswald pour garantir le rendu des titres, un tour sur [Google fonts](https://fonts.google.com/) devrait vous aider - C'est à vous de trouver comment faire :)
-- Afficher la liste des acteurs
+## My process
 
-![resultat](ressources/resultat-bonus.png)
+### Built with
 
-</details>
+- Semantic HTML5 markup
+- CSS custom properties
 
----
+### What I learned
 
-<details>
-  
-<summary>
-  Super Bonus <strong>encore plus facultatif</strong>
-</summary>
-
-## SUPER BONUS
-
-- Un lien vers un site distant doit être placé sur chaque acteur, le lien doit s'ouvrir dans une page différente 
-- Les liens survolés doivent réagir (fond et couleur en respectant l'arrondi)
-- Gérer les blocs d'images 
-
-![resultat](ressources/resultat-super-bonus.png)
-  
-</details>
-
-
+In creating this landing page, I gained hands-on experience with HTML5 for semantic structuring, and how to manipulate the box model with CSS.
